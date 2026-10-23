@@ -1,2 +1,6 @@
 ||analytics.tiktok.com^
 ||trk.pinterest.com^
+||youtubei.googleapis.com^
+||googlevideo.com^
+||youtube.com^
+||youtu.be^
